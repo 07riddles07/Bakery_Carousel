@@ -32,3 +32,19 @@ h1 {
 .btn:hover {
     color: #9b9b97;
 }
+
+
+@media all and (max-width: 800px) {
+    #pictures {
+        max-width: 80%;
+        height: auto;
+    }
+}
+
+@media all and (max-width: 500px) {
+
+    #pictures {
+        max-width: 80%;
+        height: auto;
+    }
+}
