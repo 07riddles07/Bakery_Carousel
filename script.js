@@ -1,7 +1,7 @@
 const back = document.querySelector('#back');
 const next = document.querySelector('#next');
 
-const pictures = ['images/1.jpg', 'images/2.jpg', 'images/3.jpg', 'images/4.jpg', 'images/5.jpg', 'images/6.jpg', 'images/7.jpg', 'images/8.jpg', 'images/9.jpg', 'images/10.jpg'];
+const pictures = ['images/1.jfif', 'images/2.jfif', 'images/3.jfif', 'images/4.jfif', 'images/5.jfif', 'images/6.jfif', 'images/7.jfif', 'images/8.jfif', 'images/9.jfif', 'images/10.jfif'];
 
 let i = 0;
 
